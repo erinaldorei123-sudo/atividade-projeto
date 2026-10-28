@@ -1,0 +1,40 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #f4f6f9;
+  margin: 0 auto;
+  padding: 30px;
+  max-width: 800px;
+}
+
+.bio p {
+  line-height: 1.6;
+  background-color: #ffffff;
+  padding: 1.5em;
+  border-radius: 8px;
+  border-left: 4px solid #27ae60;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  padding: 12px 20px;
+  margin-bottom: 0.8rem;
+  font-size: 16px;
+  border-radius: 6px;
+  color: #ffffff;
+}
+
+.skill-dev {
+  background-color: #2980b9;
+}
+
+.skill-design {
+  background-color: #8e44ad;
+}
+
+.skill-tools {
+  background-color: #d35400;
+}
